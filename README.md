@@ -1,4 +1,4 @@
-AutoIT script files
+AutoIt script files
 ===
 
-Miscellaneous AutoIT script files for the personal use.
+Miscellaneous AutoIt script files for the personal use.
