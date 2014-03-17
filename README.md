@@ -1,4 +1,4 @@
-Python script files
+AutoIT script files
 ===
 
-Miscellaneous Python script files for the personal use.
+Miscellaneous AutoIT script files for the personal use.
